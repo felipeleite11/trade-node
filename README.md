@@ -35,9 +35,9 @@ The last part is the **web client**. This receive candle data to plot a candle c
 
 ## How to try 🔥
 
-Open **3 terminals**;
-Enter the **/candle-generator** folder and execute **yarn dev**;
-Enter the **/api** folder and execute **yarn dev**;
-Enter the **/web** folder, execute **yarn dev** and open **http://localhost:5173** on your browser.
+- Open **3 terminals**;
+- Enter the **/candle-generator** folder and execute **yarn dev**;
+- Enter the **/api** folder and execute **yarn dev**;
+- Enter the **/web** folder, execute **yarn dev** and open **http://localhost:5173** on your browser.
 
 Alternatively, use a process manager as **[PM2](https://pm2.keymetrics.io/)** to run all parts simultaneously.
