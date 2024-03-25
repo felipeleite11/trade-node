@@ -19,8 +19,8 @@ This project implements message queues (RabbitMQ) for send the Bitcoin exchange 
 
 ## Project structure 🎉
 
-├── candle-generator
-├── api
+├── candle-generator<br/>
+├── api<br/>
 └── web
 
 ## Architecture 🔶
